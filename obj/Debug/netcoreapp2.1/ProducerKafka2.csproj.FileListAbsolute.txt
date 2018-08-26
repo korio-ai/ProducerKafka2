@@ -1,0 +1,11 @@
+/home/snoop244/RiderProjects/ProducerKafka2/bin/Debug/netcoreapp2.1/ProducerKafka2.deps.json
+/home/snoop244/RiderProjects/ProducerKafka2/bin/Debug/netcoreapp2.1/ProducerKafka2.runtimeconfig.json
+/home/snoop244/RiderProjects/ProducerKafka2/bin/Debug/netcoreapp2.1/ProducerKafka2.runtimeconfig.dev.json
+/home/snoop244/RiderProjects/ProducerKafka2/bin/Debug/netcoreapp2.1/ProducerKafka2.dll
+/home/snoop244/RiderProjects/ProducerKafka2/bin/Debug/netcoreapp2.1/ProducerKafka2.pdb
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.csprojAssemblyReference.cache
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.csproj.CoreCompileInputs.cache
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.AssemblyInfoInputs.cache
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.AssemblyInfo.cs
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.dll
+/home/snoop244/RiderProjects/ProducerKafka2/obj/Debug/netcoreapp2.1/ProducerKafka2.pdb
